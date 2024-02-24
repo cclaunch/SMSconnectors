@@ -27,6 +27,12 @@ appropriate thickness washer, a pair of cards can be assembled to
 form the socket. One side is marked Socket for Board and the other
 is marked Insert in Sockets.
 
+To ensure a good connection between the flat fingers of this 
+connector and the actual SMS card being inserted, I recommend
+soldering on Harwin RFI Shield Fingers, part S7261-45R, which 
+are 1.5mm wide surface mount parts that solder onto the fingers
+of the connector and have a springy top side. 
+
 By placing the side with the fingers down, a pair have fingers
 inside the sandwich in the proper orientation to siip over an
 SMS card or paddle board. There is an extraneous set of fingers
